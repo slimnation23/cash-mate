@@ -8,5 +8,5 @@ import December2024 from "./components/December2024.vue"
 
 createApp(App)
 .component("spread-sheets", SpreadSheets)
-.component("december2024", December2024)
+.component("december-2024", December2024)
 .mount('#app')
